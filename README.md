@@ -21,7 +21,7 @@ Check out my [website](https://addeandersson.github.io/portfolio/) for more proj
 ### GitHub Statistics
 [![AddeAndersson's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=AddeAndersson&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![AddeAndersson's Most Used Langueages](https://github-readme-stats.vercel.app/api/top-langs/?username=AddeAndersson&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![AddeAndersson's Most Used Langueages](https://github-readme-stats.vercel.app/api/top-langs/?username=AddeAndersson&theme=react&exclude_repo=TNM085,TNM096)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contact & Socials
 * [LinkedIn](https://www.linkedin.com/in/adrian-andersson-410345149/)
