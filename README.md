@@ -8,7 +8,7 @@ My name is Adrian Andersson. I am a last year M.Sc. student in Media Technology 
 
 ### Projects
 
-DDPG Agent in TORCS using Tensorflow and Python.
+DDPG Agent in TORCS using TensorFlow and Python.
 
 [![DDPG Agent in TORCS](https://img.youtube.com/vi/V_kxQbAES2E/0.jpg)](https://www.youtube.com/watch?v=V_kxQbAES2E)
 
